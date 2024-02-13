@@ -3,6 +3,8 @@
 - 2. Linear data types
 - 3. Tree-like data types
 - 4. Dictionaries
- 5. Applications of abstract data types
- 6. 
+- 5. Applications of abstract data types
+- 6. 
+
+##Video explicativo
 https://youtu.be/nKGMiS3UPEI
