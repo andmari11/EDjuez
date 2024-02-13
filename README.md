@@ -6,5 +6,5 @@
 - 5. Applications of abstract data types
 - 6. 
 
-##Video explicativo
+## Video explicativo
 https://youtu.be/nKGMiS3UPEI
